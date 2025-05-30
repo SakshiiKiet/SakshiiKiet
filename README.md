@@ -45,7 +45,7 @@ A dynamic developer portfolio generator that turns GitHub data into AI-powered d
 > 🔹 AI-generated resume & LinkedIn summaries  
 > 🔹 Public profile URLs & export features
 
-### 🗳️ [Civic Platform](https://github.com/Abhishhek-Verma/Civic-Platform)
+### 🗳️ [Civic Platform](https://github.com/SakshiiKiet/Civic-Platform)
 An AI-driven platform for civic engagement and social change via micro-campaigns.  
 **Tech Stack:** MERN Stack, GPT-4, DigiLocker API  
 > 🔹 1-click campaign creation using AI & images  

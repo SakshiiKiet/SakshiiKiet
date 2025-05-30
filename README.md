@@ -38,7 +38,7 @@
 
 ## 💻 Projects I'm proud of:
 
-### 🚀 [DevScope](https://github.com/Abhishhek-Verma/DevScope)
+### 🚀 [DevScope](https://github.com/SakshiiKiet/DevScope)
 A dynamic developer portfolio generator that turns GitHub data into AI-powered dashboards and professional summaries.  
 **Tech Stack:** React, Node.js, Supabase, OpenAI, GitHub GraphQL API  
 > 🔹 GitHub OAuth integration  
@@ -97,8 +97,8 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshi-Maan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakshiiKiet&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-Maan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiiKiet&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
